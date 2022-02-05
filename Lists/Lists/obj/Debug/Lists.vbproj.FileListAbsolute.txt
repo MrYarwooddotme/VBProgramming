@@ -1,0 +1,8 @@
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/Lists/Lists/bin/Debug/Lists.exe
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/Lists/Lists/bin/Debug/Lists.pdb
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/Lists/Lists/bin/Debug/Lists.xml
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/Lists/Lists/obj/Debug/Lists.vbprojAssemblyReference.cache
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/Lists/Lists/obj/Debug/Lists.vbproj.CoreCompileInputs.cache
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/Lists/Lists/obj/Debug/Lists.exe
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/Lists/Lists/obj/Debug/Lists.xml
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/Lists/Lists/obj/Debug/Lists.pdb

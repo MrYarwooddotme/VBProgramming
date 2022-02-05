@@ -1,0 +1,8 @@
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/roulette/roulette/bin/Debug/roulette.exe
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/roulette/roulette/bin/Debug/roulette.pdb
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/roulette/roulette/bin/Debug/roulette.xml
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/roulette/roulette/obj/Debug/roulette.vbprojAssemblyReference.cache
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/roulette/roulette/obj/Debug/roulette.vbproj.CoreCompileInputs.cache
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/roulette/roulette/obj/Debug/roulette.exe
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/roulette/roulette/obj/Debug/roulette.xml
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/roulette/roulette/obj/Debug/roulette.pdb

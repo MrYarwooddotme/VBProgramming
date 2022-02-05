@@ -1,0 +1,8 @@
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/taxes/taxes/bin/Debug/taxes.exe
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/taxes/taxes/bin/Debug/taxes.pdb
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/taxes/taxes/bin/Debug/taxes.xml
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/taxes/taxes/obj/Debug/taxes.vbprojAssemblyReference.cache
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/taxes/taxes/obj/Debug/taxes.vbproj.CoreCompileInputs.cache
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/taxes/taxes/obj/Debug/taxes.exe
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/taxes/taxes/obj/Debug/taxes.xml
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/taxes/taxes/obj/Debug/taxes.pdb

@@ -1,0 +1,8 @@
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/alphabettyping/alphabettyping/bin/Debug/alphabettyping.exe
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/alphabettyping/alphabettyping/bin/Debug/alphabettyping.pdb
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/alphabettyping/alphabettyping/bin/Debug/alphabettyping.xml
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/alphabettyping/alphabettyping/obj/Debug/alphabettyping.vbprojAssemblyReference.cache
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/alphabettyping/alphabettyping/obj/Debug/alphabettyping.vbproj.CoreCompileInputs.cache
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/alphabettyping/alphabettyping/obj/Debug/alphabettyping.exe
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/alphabettyping/alphabettyping/obj/Debug/alphabettyping.xml
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/alphabettyping/alphabettyping/obj/Debug/alphabettyping.pdb

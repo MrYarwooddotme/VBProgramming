@@ -1,0 +1,8 @@
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/sub quiz/sub quiz/bin/Debug/sub_quiz.exe
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/sub quiz/sub quiz/bin/Debug/sub_quiz.pdb
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/sub quiz/sub quiz/bin/Debug/sub_quiz.xml
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/sub quiz/sub quiz/obj/Debug/sub quiz.vbprojAssemblyReference.cache
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/sub quiz/sub quiz/obj/Debug/sub quiz.vbproj.CoreCompileInputs.cache
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/sub quiz/sub quiz/obj/Debug/sub_quiz.exe
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/sub quiz/sub quiz/obj/Debug/sub_quiz.xml
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/sub quiz/sub quiz/obj/Debug/sub_quiz.pdb

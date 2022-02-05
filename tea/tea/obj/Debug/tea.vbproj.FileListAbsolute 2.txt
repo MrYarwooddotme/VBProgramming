@@ -1,0 +1,8 @@
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/tea/tea/obj/Debug/tea.vbprojAssemblyReference.cache
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/tea/tea/obj/Debug/tea.vbproj.CoreCompileInputs.cache
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/tea/tea/bin/Debug/tea.exe
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/tea/tea/bin/Debug/tea.pdb
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/tea/tea/bin/Debug/tea.xml
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/tea/tea/obj/Debug/tea.exe
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/tea/tea/obj/Debug/tea.xml
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/tea/tea/obj/Debug/tea.pdb

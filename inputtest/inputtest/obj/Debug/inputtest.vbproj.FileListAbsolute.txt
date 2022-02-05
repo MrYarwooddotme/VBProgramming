@@ -1,0 +1,8 @@
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/inputtest/inputtest/bin/Debug/inputtest.exe
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/inputtest/inputtest/bin/Debug/inputtest.pdb
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/inputtest/inputtest/bin/Debug/inputtest.xml
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/inputtest/inputtest/obj/Debug/inputtest.vbprojAssemblyReference.cache
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/inputtest/inputtest/obj/Debug/inputtest.vbproj.CoreCompileInputs.cache
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/inputtest/inputtest/obj/Debug/inputtest.exe
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/inputtest/inputtest/obj/Debug/inputtest.xml
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/inputtest/inputtest/obj/Debug/inputtest.pdb

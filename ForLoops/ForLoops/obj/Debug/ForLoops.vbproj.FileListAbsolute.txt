@@ -1,0 +1,8 @@
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/ForLoops/ForLoops/bin/Debug/ForLoops.exe
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/ForLoops/ForLoops/bin/Debug/ForLoops.pdb
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/ForLoops/ForLoops/bin/Debug/ForLoops.xml
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/ForLoops/ForLoops/obj/Debug/ForLoops.vbprojAssemblyReference.cache
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/ForLoops/ForLoops/obj/Debug/ForLoops.vbproj.CoreCompileInputs.cache
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/ForLoops/ForLoops/obj/Debug/ForLoops.exe
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/ForLoops/ForLoops/obj/Debug/ForLoops.xml
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/ForLoops/ForLoops/obj/Debug/ForLoops.pdb
