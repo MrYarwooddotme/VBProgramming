@@ -1,0 +1,8 @@
+/Users/davidyarwood/RiderProjects/strings/strings/bin/Debug/strings.exe
+/Users/davidyarwood/RiderProjects/strings/strings/bin/Debug/strings.pdb
+/Users/davidyarwood/RiderProjects/strings/strings/bin/Debug/strings.xml
+/Users/davidyarwood/RiderProjects/strings/strings/obj/Debug/strings.vbprojAssemblyReference.cache
+/Users/davidyarwood/RiderProjects/strings/strings/obj/Debug/strings.vbproj.CoreCompileInputs.cache
+/Users/davidyarwood/RiderProjects/strings/strings/obj/Debug/strings.exe
+/Users/davidyarwood/RiderProjects/strings/strings/obj/Debug/strings.xml
+/Users/davidyarwood/RiderProjects/strings/strings/obj/Debug/strings.pdb

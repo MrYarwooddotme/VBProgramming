@@ -1,0 +1,8 @@
+/Users/davidyarwood/RiderProjects/coincollect/coincollect/bin/Debug/coincollect.exe
+/Users/davidyarwood/RiderProjects/coincollect/coincollect/bin/Debug/coincollect.pdb
+/Users/davidyarwood/RiderProjects/coincollect/coincollect/bin/Debug/coincollect.xml
+/Users/davidyarwood/RiderProjects/coincollect/coincollect/obj/Debug/coincollect.vbprojAssemblyReference.cache
+/Users/davidyarwood/RiderProjects/coincollect/coincollect/obj/Debug/coincollect.vbproj.CoreCompileInputs.cache
+/Users/davidyarwood/RiderProjects/coincollect/coincollect/obj/Debug/coincollect.exe
+/Users/davidyarwood/RiderProjects/coincollect/coincollect/obj/Debug/coincollect.xml
+/Users/davidyarwood/RiderProjects/coincollect/coincollect/obj/Debug/coincollect.pdb

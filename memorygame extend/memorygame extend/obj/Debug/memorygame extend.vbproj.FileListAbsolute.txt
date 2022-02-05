@@ -1,0 +1,8 @@
+/Users/davidyarwood/RiderProjects/memorygame extend/memorygame extend/obj/Debug/memorygame extend.vbprojAssemblyReference.cache
+/Users/davidyarwood/RiderProjects/memorygame extend/memorygame extend/obj/Debug/memorygame extend.vbproj.CoreCompileInputs.cache
+/Users/davidyarwood/RiderProjects/memorygame extend/memorygame extend/bin/Debug/memorygame_extend.exe
+/Users/davidyarwood/RiderProjects/memorygame extend/memorygame extend/bin/Debug/memorygame_extend.pdb
+/Users/davidyarwood/RiderProjects/memorygame extend/memorygame extend/bin/Debug/memorygame_extend.xml
+/Users/davidyarwood/RiderProjects/memorygame extend/memorygame extend/obj/Debug/memorygame_extend.exe
+/Users/davidyarwood/RiderProjects/memorygame extend/memorygame extend/obj/Debug/memorygame_extend.xml
+/Users/davidyarwood/RiderProjects/memorygame extend/memorygame extend/obj/Debug/memorygame_extend.pdb
