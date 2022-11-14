@@ -1,0 +1,8 @@
+/Users/davidyarwood/Documents/GitHub/VBProgramming/SpeedTracker/SpeedTracker/obj/Debug/SpeedTracker.vbprojAssemblyReference.cache
+/Users/davidyarwood/Documents/GitHub/VBProgramming/SpeedTracker/SpeedTracker/obj/Debug/SpeedTracker.vbproj.CoreCompileInputs.cache
+/Users/davidyarwood/Documents/GitHub/VBProgramming/SpeedTracker/SpeedTracker/bin/Debug/SpeedTracker.exe
+/Users/davidyarwood/Documents/GitHub/VBProgramming/SpeedTracker/SpeedTracker/bin/Debug/SpeedTracker.pdb
+/Users/davidyarwood/Documents/GitHub/VBProgramming/SpeedTracker/SpeedTracker/bin/Debug/SpeedTracker.xml
+/Users/davidyarwood/Documents/GitHub/VBProgramming/SpeedTracker/SpeedTracker/obj/Debug/SpeedTracker.exe
+/Users/davidyarwood/Documents/GitHub/VBProgramming/SpeedTracker/SpeedTracker/obj/Debug/SpeedTracker.xml
+/Users/davidyarwood/Documents/GitHub/VBProgramming/SpeedTracker/SpeedTracker/obj/Debug/SpeedTracker.pdb
