@@ -1,5 +1,5 @@
-﻿Imports System
-Public Module Module1
+Imports System
+Public Module Battleships2
     Public Sub Main()
         dim game_over as boolean = false
         dim grid(10, 10) as char

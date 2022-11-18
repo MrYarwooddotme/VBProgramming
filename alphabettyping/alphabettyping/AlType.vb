@@ -1,4 +1,4 @@
-﻿Module Module1
+Module AlType
     Sub Main()
         dim points as Integer
         dim letter as Char

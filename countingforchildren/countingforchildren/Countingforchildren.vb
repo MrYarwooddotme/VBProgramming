@@ -1,4 +1,4 @@
-﻿Module Module1
+Module Countingforchildren
     Sub Main()
         dim guess, answer, total, goes as integer
         dim gameover as boolean = false
