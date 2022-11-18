@@ -1,0 +1,8 @@
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/beatlesList/beatlesList/obj/Debug/beatlesList.vbprojAssemblyReference.cache
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/beatlesList/beatlesList/obj/Debug/beatlesList.vbproj.CoreCompileInputs.cache
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/beatlesList/beatlesList/bin/Debug/beatlesList.exe
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/beatlesList/beatlesList/bin/Debug/beatlesList.pdb
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/beatlesList/beatlesList/bin/Debug/beatlesList.xml
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/beatlesList/beatlesList/obj/Debug/beatlesList.exe
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/beatlesList/beatlesList/obj/Debug/beatlesList.xml
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/beatlesList/beatlesList/obj/Debug/beatlesList.pdb

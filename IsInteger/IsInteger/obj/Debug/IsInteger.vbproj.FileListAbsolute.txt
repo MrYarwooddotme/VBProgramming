@@ -1,0 +1,8 @@
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/IsInteger/IsInteger/bin/Debug/IsInteger.exe
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/IsInteger/IsInteger/bin/Debug/IsInteger.pdb
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/IsInteger/IsInteger/bin/Debug/IsInteger.xml
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/IsInteger/IsInteger/obj/Debug/IsInteger.vbprojAssemblyReference.cache
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/IsInteger/IsInteger/obj/Debug/IsInteger.vbproj.CoreCompileInputs.cache
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/IsInteger/IsInteger/obj/Debug/IsInteger.exe
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/IsInteger/IsInteger/obj/Debug/IsInteger.xml
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/IsInteger/IsInteger/obj/Debug/IsInteger.pdb

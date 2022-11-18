@@ -1,0 +1,8 @@
+/Users/davidyarwood/Documents/GitHub/VBProgramming/countingforchildren/countingforchildren/bin/Debug/countingforchildren.exe
+/Users/davidyarwood/Documents/GitHub/VBProgramming/countingforchildren/countingforchildren/bin/Debug/countingforchildren.pdb
+/Users/davidyarwood/Documents/GitHub/VBProgramming/countingforchildren/countingforchildren/bin/Debug/countingforchildren.xml
+/Users/davidyarwood/Documents/GitHub/VBProgramming/countingforchildren/countingforchildren/obj/Debug/countingforchildren.vbprojAssemblyReference.cache
+/Users/davidyarwood/Documents/GitHub/VBProgramming/countingforchildren/countingforchildren/obj/Debug/countingforchildren.vbproj.CoreCompileInputs.cache
+/Users/davidyarwood/Documents/GitHub/VBProgramming/countingforchildren/countingforchildren/obj/Debug/countingforchildren.exe
+/Users/davidyarwood/Documents/GitHub/VBProgramming/countingforchildren/countingforchildren/obj/Debug/countingforchildren.xml
+/Users/davidyarwood/Documents/GitHub/VBProgramming/countingforchildren/countingforchildren/obj/Debug/countingforchildren.pdb

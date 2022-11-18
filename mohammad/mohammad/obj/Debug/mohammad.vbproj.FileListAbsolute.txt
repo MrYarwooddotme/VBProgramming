@@ -1,0 +1,8 @@
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/mohammad/mohammad/obj/Debug/mohammad.vbprojAssemblyReference.cache
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/mohammad/mohammad/obj/Debug/mohammad.vbproj.CoreCompileInputs.cache
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/mohammad/mohammad/bin/Debug/mohammad.exe
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/mohammad/mohammad/bin/Debug/mohammad.pdb
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/mohammad/mohammad/bin/Debug/mohammad.xml
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/mohammad/mohammad/obj/Debug/mohammad.exe
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/mohammad/mohammad/obj/Debug/mohammad.xml
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/mohammad/mohammad/obj/Debug/mohammad.pdb

@@ -1,0 +1,8 @@
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/revisionList/bin/Debug/revisionList.exe
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/revisionList/bin/Debug/revisionList.pdb
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/revisionList/bin/Debug/revisionList.xml
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/revisionList/obj/Debug/revisionList.vbprojAssemblyReference.cache
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/revisionList/obj/Debug/revisionList.vbproj.CoreCompileInputs.cache
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/revisionList/obj/Debug/revisionList.exe
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/revisionList/obj/Debug/revisionList.xml
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/revisionList/obj/Debug/revisionList.pdb

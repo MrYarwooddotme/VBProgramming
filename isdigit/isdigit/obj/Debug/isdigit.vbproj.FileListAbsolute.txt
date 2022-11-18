@@ -1,0 +1,8 @@
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/isdigit/isdigit/bin/Debug/isdigit.exe
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/isdigit/isdigit/bin/Debug/isdigit.pdb
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/isdigit/isdigit/bin/Debug/isdigit.xml
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/isdigit/isdigit/obj/Debug/isdigit.vbprojAssemblyReference.cache
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/isdigit/isdigit/obj/Debug/isdigit.vbproj.CoreCompileInputs.cache
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/isdigit/isdigit/obj/Debug/isdigit.exe
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/isdigit/isdigit/obj/Debug/isdigit.xml
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/isdigit/isdigit/obj/Debug/isdigit.pdb

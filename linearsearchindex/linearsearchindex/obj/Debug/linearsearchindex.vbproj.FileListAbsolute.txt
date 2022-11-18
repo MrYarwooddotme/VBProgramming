@@ -1,0 +1,8 @@
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/linearsearchindex/linearsearchindex/bin/Debug/linearsearchindex.exe
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/linearsearchindex/linearsearchindex/bin/Debug/linearsearchindex.pdb
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/linearsearchindex/linearsearchindex/bin/Debug/linearsearchindex.xml
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/linearsearchindex/linearsearchindex/obj/Debug/linearsearchindex.vbprojAssemblyReference.cache
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/linearsearchindex/linearsearchindex/obj/Debug/linearsearchindex.vbproj.CoreCompileInputs.cache
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/linearsearchindex/linearsearchindex/obj/Debug/linearsearchindex.exe
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/linearsearchindex/linearsearchindex/obj/Debug/linearsearchindex.xml
+/Users/davidyarwood/Documents/GitHub/ProgrammingLessons/linearsearchindex/linearsearchindex/obj/Debug/linearsearchindex.pdb
