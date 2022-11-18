@@ -1,5 +1,5 @@
-﻿Imports System.Console
-Module Module1
+Imports System.Console
+Module Coin
     Dim _lives As Integer = 3
     Dim _Score As Integer = 0
     'this is a CLASS/RECORD, a data structure that can hold items of data of different types
